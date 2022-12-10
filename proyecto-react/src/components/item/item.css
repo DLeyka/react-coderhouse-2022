@@ -1,0 +1,40 @@
+.card img {
+    width: 280px;
+}
+
+.card {
+    width: 280px;
+    height: 520px;
+    margin: 0 0 80px;
+    background-color: white;
+}
+
+.card h2 {
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.card h3 {
+    padding-left: 15px;
+    color: rgb(86, 86, 86);
+}
+
+.card h1 {
+    text-align: right;
+    padding: 10px 15px 0 0;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: right;
+    margin-right: 15px;
+}
+
+.link:hover {
+    color: #3b8eed;
+    font-weight: 700;
+}

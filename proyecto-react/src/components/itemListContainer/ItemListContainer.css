@@ -1,0 +1,26 @@
+.portada-container{
+    width: 100%;
+    margin: 0 0 -10px;
+    padding: 0px;
+}
+
+.portada-container img {
+    width: 100%;
+}
+
+.portada-container h1 {
+    position: absolute;
+    top: 130px;
+    left: 650px;
+    color: white;
+}
+
+.portada-container h3 {
+    position: absolute;
+    top: 185px;
+    left: 540px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 400;
+}
